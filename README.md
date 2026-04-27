@@ -1,26 +1,29 @@
 # 👋 Hello, I'm Packsolite
 
 ```
-╔══════════════════════════════════════════════════════════════╗
-║                    MY JOURNEY TO SUCCESS                     ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║   2025 - 2026    🤖 Professional Prompt Engineer              ║
-║                    "Please, I need this code to work..."      ║
-║                                                              ║
-║   2020 - 2021    💰 Businessan & Crypto Miner                 ║
-║                    bought high, sold low, blamed the whales  ║
-║                                                              ║
-║   2017 - 2019    ☕ Professional 10x Java Developer           ║
-║                    writes 10x more bugs than anyone else     ║
-║                                                              ║
-║   2012 - 2017    🎮  Hardcore Minecraft Cheat Developer       ║
-║                    NOCLIP was just the beginning             ║
-║                                                              ║
-║   < 2010 - 2012   💻  Visual Basic Hackerman                 ║
-║                    "Remember Wurst Client? That wasn't me."  ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════════╗
+║                     MY JOURNEY TO SUCCESS                          ║
+╠════════════════════════════════════════════════════════════════════╣
+║                                                                    ║
+║  2025 - 2026   🤖 Professional Prompt Engineer                      ║
+║                  "Please, I need this code to work..."             ║
+║                                                                    ║
+║  2022 - 2024   🔒 Network Admin                                    ║
+║                  Did I just UFW myself out of this box?            ║
+║                                                                    ║
+║  2020 - 2021   💰 Crypto Expert                                    ║
+║                  Bought high, sold low                             ║
+║                                                                    ║
+║  2017 - 2019   ☕ Professional 10x Java Developer                   ║
+║                  Writes 10x more bugs than anyone else              ║
+║                                                                    ║
+║  2012 - 2017   🎮 Hardcore Minecraft Cheat Developer               ║
+║                  Remember Wurst Client? That wasn't me.             ║
+║                                                                    ║
+║  2010 - 2012   💻 Visual Basic Hackerman                           ║
+║                  Come on, this was my first language...              ║
+║                                                                    ║
+╚════════════════════════════════════════════════════════════════════╝
 ```
 
 ---

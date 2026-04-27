@@ -6,23 +6,6 @@
 
 ---
 
-## 🔥 GitHub Stats
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Packsolite&theme=onedark&border_radius=4)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Packsolite&theme=onedark&border_radius=4&show_icons=true)
-
----
-
-## 🛠️ Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Networking](https://img.shields.io/badge/Networking-0078D4?style=for-the-badge&logo=windows&logoColor=white)
-
----
-
 ## 📚 MY JOURNEY TO SUCCESS
 
 **2025 - 2026**    **🤖 Professional Prompt Engineer**  
@@ -46,6 +29,23 @@
 ---
 
 *"The only constant in tech is that every 3 years you pretend to be an expert in something completely new."* 🫠
+
+---
+
+## 🔥 GitHub Stats
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Packsolite&theme=onedark&border_radius=4)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Packsolite&theme=onedark&border_radius=4&show_icons=true)
+
+---
+
+## 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 
 ---
 

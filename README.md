@@ -2,10 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Packsolite&color=ff6b6b&style=flat-square)
 
-## GitHub Stats
-
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Packsolite&theme=onedark&border_radius=4)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Packsolite&theme=onedark&border_radius=4&show_icons=true)
 
 ## Favorite Tech
 
@@ -18,4 +15,4 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
-
+![Opencode](https://img.shields.io/badge/opencode-000000?style=for-the-badge&logo=opencode&logoColor=white)
